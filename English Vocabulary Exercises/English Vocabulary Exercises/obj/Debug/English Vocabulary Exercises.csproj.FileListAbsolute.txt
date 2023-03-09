@@ -1,0 +1,11 @@
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\bin\Debug\English Vocabulary Exercises.exe.config
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\bin\Debug\English Vocabulary Exercises.exe
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\bin\Debug\English Vocabulary Exercises.pdb
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\obj\Debug\English Vocabulary Exercises.csproj.AssemblyReference.cache
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\obj\Debug\English Vocabulary Exercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\obj\Debug\English_Vocabulary_Exercises.Form1.resources
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\obj\Debug\English_Vocabulary_Exercises.Properties.Resources.resources
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\obj\Debug\English Vocabulary Exercises.csproj.GenerateResource.cache
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\obj\Debug\English Vocabulary Exercises.csproj.CoreCompileInputs.cache
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\obj\Debug\English Vocabulary Exercises.exe
+C:\Users\baris\Desktop\Görsel Programlama\English Vocabulary Exercises\English Vocabulary Exercises\obj\Debug\English Vocabulary Exercises.pdb
